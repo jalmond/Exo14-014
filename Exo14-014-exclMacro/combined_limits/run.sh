@@ -1,0 +1,6 @@
+root -l PlotExclusion_Interpolate_coupling_Combined_Approval.C
+root -l PlotExclusion_Interpolate_coupling_Combined_obs_Approval.C
+root -l PlotExclusion_Interpolate_xsec_Combined_Approval.C
+root -l PlotExclusion_Interpolate_xsec_Combined_expected_Approval.C
+
+mv *.pdf CombinedLimitPlots/
